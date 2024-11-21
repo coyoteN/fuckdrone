@@ -2,7 +2,7 @@ Ce Script a pour but de promouvoir la liberté, il permet a un équipement équi
  de ne pas avoir de drone aux alentours . Cela vous garantie une tranquillité et une liberté sans précèdent .
 
 # SCRIPT ANTI DRONE 
-# ANTI DRONE CIVILE (PARTICULIERS ) ET CONTRE LA POLICE DES DRONES
-# DECONNEXION DRONE POLICE
+# ANTI DRONE - CIVIL ou MILITAIRE CE SCRIPT PERMET DE BROUILLER LES DRONES 
+# DECONNEXION DRONE CIVIL OU MILITAIRE OU FORCE DE L'ORDRE
 # DECONNEXION DE DRONE
 
